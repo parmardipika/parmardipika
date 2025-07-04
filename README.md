@@ -62,18 +62,6 @@
 
 ---
 
-### 🧠 Competitive Programming
-
-| Platform | Profile |
-|----------|---------|
-| 💻 LeetCode | [Dipika on LeetCode](https://leetcode.com/) *(add link when ready)* |
-| ⚙️ Codeforces | [Dipika on Codeforces](https://codeforces.com/) *(add link when ready)* |
-| 🍽️ CodeChef | [Dipika on CodeChef](https://codechef.com/) *(add link when ready)* |
-
-> Solving DSA problems daily using **Java**, focusing on real-world applications and problem-solving speed.
-> Solved 100+ questions on LeetCode.
-
----
 
 ### 📈 GitHub Stats
 
