@@ -55,7 +55,7 @@
 | **TrekVerse** *(in progress)*| React, Node.js, MongoDB, AR Preview | Full-stack travel platform with future AR/VR integration |
 | **ResumeForge** *(in progress)* | Node.js, EJS, Puppeteer | Resume builder with live preview + PDF export |
 | **BugSpy AI** *(coming soon)* | NLP + GitHub API | AI CVE scanner for GitHub repos using ML & NLP |
-| **Realtime Chat App**  | Node.js, Socket.IO, JavaScript | Live chat application with real-time messaging support |
+| **Sync_Chat**  | Node.js, Socket.IO, JavaScript | Live chat application with real-time messaging support |
 | **Image Classifier**  | Python, TensorFlow, OpenCV | Custom image classification app using machine learning|
 
 
