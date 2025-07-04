@@ -8,15 +8,6 @@
 
 ---
 
-### 🔭 Projects I'm Proud Of
-
-| 🧩 Project        | 🔧 Tech Stack         | 🔗 Demo |
-|------------------|-----------------------|--------|
-| Amazon Clone     | HTML, CSS             | [Live](https://parmardipika.github.io/Amazon_clone/) |
-| Chickenpox ML App| Python, ML            | *Coming soon* |
-
----
-
 ### 🧠 Currently Learning
 
 - 💡 DSA in **Java**
@@ -37,7 +28,7 @@
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:parmardipika61825@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dipika-p-956378290/)
 <!-- Replace with your actual LinkedIn -->
 
 ---
