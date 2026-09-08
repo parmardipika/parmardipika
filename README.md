@@ -7,25 +7,11 @@
 
 ### 🧭 About Me
 
-- 🔧 MERN & Java Spring Boot Developer – building full-stack, production-ready web apps
 - 💡 AI/ML enthusiast – solving real-world problems using Python & Embedded ML
+- 🔧 MERN Developer – building full-stack, production-ready web apps
 - 💻 Competitive Programmer – active on **LeetCode**, **Codeforces**, **CodeChef**
 - 📦 Focused on developing **deployable, scalable, and useful products**
-- 🧠 Exploring **AR/VR** and future-tech interfaces
 - 🧰 Currently mastering **DSA in Java**
-
----
-
-### 🎯 Tech Domains & Interests
-
-| Area | Focus |
-|------|-------|
-| 🔨 Full-Stack Dev | MERN, EJS, Tailwind, REST, JWT, CRUD, PDF Export |
-| 🚀 Backend Engineering | Java, Spring Boot, MySQL, API Development |
-| 🧠 Machine Learning | Python, Scikit-learn, OpenCV, Sensor-based ML |
-| 🛠 Embedded ML / IoT | Arduino, ESP32, Edge ML (for smart wearables) |
-| 💡 AR/VR (Upcoming) | WebXR, Unity3D, 3D UI Concepts |
-| 🎯 DSA & CP | Java, LeetCode, Codeforces, CodeChef |
 
 ---
 
@@ -45,20 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-### 📦 Featured Projects
-
-| 🚀 Project | 🔧 Tech Stack | 🌟 Description |
-|-----------|---------------|----------------|
-| **TrekVerse** *(in progress)*| React, Node.js, MongoDB, AR Preview | Full-stack travel platform with future AR/VR integration |
-| **ResumeForge** *(in progress)* | Node.js, EJS, Puppeteer | Resume builder with live preview + PDF export |
-| **BugSpy AI** *(coming soon)* | NLP + GitHub API | AI CVE scanner for GitHub repos using ML & NLP |
-| **Sync_Chat**  | Node.js, Socket.IO, JavaScript | Live chat application with real-time messaging support |
-| **Image Classifier**  | Python, TensorFlow, OpenCV | Custom image classification app using machine learning|
-
-
 
 ---
 
